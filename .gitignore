@@ -1,0 +1,13 @@
+*.jar
+*.class
+*.log
+.gradle/
+build/
+.idea/
+*.iml
+out/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
