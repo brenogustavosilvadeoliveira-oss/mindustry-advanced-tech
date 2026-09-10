@@ -1,0 +1,9 @@
+{
+  "name": "Advanced Tech",
+  "author": "BrenoGustavo",
+  "description": "Um mod futurista com minérios avançados, reator de fusão, armas de alta tecnologia e sistema de logística premium.",
+  "version": "1.0",
+  "minGameVersion": "146",
+  "hidden": false,
+  "java": true
+}
